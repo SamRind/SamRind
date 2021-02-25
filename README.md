@@ -1,5 +1,4 @@
-### Hi there 👋
-
+## Hi I am Sam 👋 :woman_technologist: 
 <!--
 **SamRind/SamRind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
